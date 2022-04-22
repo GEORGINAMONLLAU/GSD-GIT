@@ -1,0 +1,22 @@
+{
+  "name": "gsd-git",
+  "version": "1.0.0",
+  "description": "This is test GSD Git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GEORGINAMONLLAU/GSD-GIT.git"
+  },
+  "author": "Gina Monllau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GEORGINAMONLLAU/GSD-GIT/issues"
+  },
+  "homepage": "https://github.com/GEORGINAMONLLAU/GSD-GIT#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
